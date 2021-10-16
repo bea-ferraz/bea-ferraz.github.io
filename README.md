@@ -1,4 +1,4 @@
-# Meu Linketree
+# Meu Linktree
 
 ![alt text](img/logolinketree.png)
 ![Cadatro](img/prototipo.gif)

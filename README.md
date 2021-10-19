@@ -4,7 +4,7 @@
 ![Cadatro](img/prototipo.gif)
 
 <h3 align="center">
-    <a href="https://bea-ferraz.github.io/Portifolio/">Acessar a demonstração</a>
+    <a href="https://bea-ferraz.github.io/linktree/">Acessar a demonstração</a>
 <h3 >
 
 # Indice
